@@ -39,3 +39,8 @@ if have done you must running migration in database
 php artisan migrate
 ```
 Your Laravel starter project is now up and running and enjoy!
+
+# My social Media 
+
+Instagram:
+<a href="https://www.instagram.com/fajar.ilhaam/">Fajar Ilham</a>
