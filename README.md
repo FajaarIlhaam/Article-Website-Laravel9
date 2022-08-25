@@ -11,9 +11,9 @@
 
 ### Launch the starter project
 
-_(Assuming you've [installed Laravel](https://laravel.com/docs/5.5/installation))_
+_(Assuming you've [installed Laravel](https://laravel.com/docs/9.x/installation))_
 
-Fork this repository, then clone your fork, and run this in your newly created directory:
+<p>Laravel setup or clone project</p>
 
 ```bash
 composer install
@@ -33,4 +33,9 @@ Then start your server:
 php artisan serve
 ```
 
-Your Laravel starter project is now up and running!
+if have done you must running migration in database 
+
+```
+php artisan migrate
+```
+Your Laravel starter project is now up and running and enjoy!
